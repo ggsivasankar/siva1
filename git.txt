@@ -1,0 +1,1 @@
+git working directory---add-->git staging area -----------commit--->git local repository
